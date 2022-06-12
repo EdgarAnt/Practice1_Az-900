@@ -2,7 +2,7 @@
 ###  Practice 1
 This is a practice in which we will show all the steps we use to create a virtual machine inside another virtual machine in Azure.
 
-Creating the first virtual machine in AZURE:tw-1f4cc: 
+Creating the first virtual machine in AZURE 💻🖥️
         ![](img/1.png)
         ![](img/2.png)
 
